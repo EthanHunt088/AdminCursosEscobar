@@ -1,5 +1,5 @@
-# CourseManagement
-Course magnament website
+# AdminCursosEscobar
+Administrador de Cursos website
 Juan Carlos Escobar Jimenez
 August 11, 2023.
 Escuela Bancaria y Comercial 
